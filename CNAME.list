@@ -1,4 +1,3 @@
 #格式:[二级域名前缀] IP地址/CNAME地址 A记录/CNAME记录 语言 审核区域 (语言:简体中文zh-CN 繁体中文zh-TW 英语EN-us 审核区域:中国CN 英国UK 日本JP)
 #格式:[二級域名前綴] IP地址/CNAME地址 A記錄/CNAME記錄 語言 審核區域 (語言:簡體中文zh-CN 繁體中文zh-TW 英語EN-us 審核區域:中國CN 英國UK 日本JP)
 #Format:[second-level domain name prefix] IP address/CNAME address A record/CNAME record Language audit area (Language: Simplified Chinese zh-CN Traditional Chinese zh-TW English EN-us Audit area: China CN UK UK Japan JP)
-[yuxiangwang0525] 47.242.231.12 CNAME zh-CN CN
